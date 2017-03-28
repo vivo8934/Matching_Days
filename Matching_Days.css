@@ -1,0 +1,53 @@
+.flex-container
+{
+    display: flex;
+    width: 800px;
+    height: 250px;
+    background-color: lightgrey;
+}
+
+td
+{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 8px black;
+    background-color: White;
+    border: 4px black;
+}
+.dates
+{
+    width: 800px;
+    height: inherit;
+
+    background-color: lightblue;
+}
+.button
+{
+    width: 800px;
+
+    background-color: lightgrey;
+}
+
+h1
+{
+    margin-left: 22%;
+
+    text-decoration: underline;
+}
+.DayMatch
+{
+
+    background-color: green;
+}
+.DiffM
+{
+
+    background-color: blue;
+}
+.DiffN
+{
+    background-color: red;
+
+
+}
